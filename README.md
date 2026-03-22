@@ -1,4 +1,4 @@
-rom rich import print
+from rich import print
 from rich.panel import Panel
 
 class Churrasco:
